@@ -3,6 +3,6 @@
 
 Окончила курсы: Яндекс Практикум по специальности веб-разработчик
 Немного обо мне: Живу в Калининграде, люблю скакать на лошади по побережью, слушать музыку у костра и играть с друзьями в крокодила.
-
+Мой телеграм https://t.me/darya_kolotilina
 Мои скилы: 
 css3 express figma git html5 javascript mongodb nodejs postman react reactnative webpack vite mui
