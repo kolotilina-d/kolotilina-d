@@ -1,6 +1,8 @@
 # Привет, меня зовут Даша
 ## Я frontend-разработчик 👋 И сейчас нахожусь в поиске работы
-<iframe src="https://giphy.com/embed/qT3NpahR7tGnOqqjng" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng">via GIPHY</a></p>
+<div id="header" align="center"></div>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90"/>
+</div>
 Окончила курсы: Яндекс Практикум по специальности веб-разработчик.
 Немного обо мне: Живу в Калининграде, люблю скакать на лошади по побережью, слушать музыку у костра и играть с друзьями в крокодила.
 
