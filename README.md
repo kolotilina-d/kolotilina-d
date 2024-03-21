@@ -3,7 +3,7 @@
 <div id="header" align="center"></div>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90"/>
 </div>
-Окончила курсы: Яндекс Практикум по специальности веб-разработчик.
+Frontend-developer. 
 Немного обо мне: Живу в Калининграде, люблю скакать на лошади по побережью, слушать музыку у костра и играть с друзьями в крокодила.
 
 ### Мои скилы: 
